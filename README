@@ -3,3 +3,9 @@ An integration of the Ajax.org Code Editor (ACE) into GWT.
 See the wiki for more information:
 
   https://github.com/daveho/AceGWT/wiki
+
+Building and Installing Node.js
+https://github.com/joyent/node/wiki/Installation
+
+Introduction to npm
+http://howtonode.org/introduction-to-npm
